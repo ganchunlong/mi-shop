@@ -1,0 +1,14 @@
+page {
+	font-size: 24rpx;
+	height: 100%;
+}
+
+view {
+	box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+	width: 0;
+	height: 0;
+	background-color: transparent;
+}
